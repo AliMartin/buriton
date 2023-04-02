@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/hyperlum/buriton.info
+    - /bin/cp -r * $DEPLOYPATH
