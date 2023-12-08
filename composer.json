@@ -29,7 +29,7 @@
         "drupal/core-vendor-hardening": "^9.1",
         "drupal/ctools": "^4.0",
         "drupal/entity_clone": "^2.0@beta",
-        "drupal/fitvids": "^1.1",
+        "drupal/fitvids": "^2.0",
         "drupal/fontawesome": "^2.23",
         "drupal/google_analytics": "^4.0",
         "drupal/honeypot": "^2.1",
@@ -45,8 +45,10 @@
         "drupal/tb_megamenu": "^1.7",
         "drupal/token": "^1.11",
         "drupal/upgrade_status": "^3.17",
-        "drupal/views_slideshow": "^4.8",
-        "drupal/webform": "^6.1"
+        "drupal/views_slideshow": "^5.0",
+        "drupal/webform": "^6.1",
+        "drupal/zircon": "10.1.x-dev@dev",
+        "drush/drush": "^11.6"
     },
     "conflict": {
         "drupal/drupal": "*"
